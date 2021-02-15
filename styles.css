@@ -1,0 +1,22 @@
+
+* {
+	margin : 0; 
+	padding : 0;
+	box-sizing: border-box;
+}
+.form01 {
+	background-color: teal;
+	padding: 20px;
+}
+td {
+	background-color:teal;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-style: initial;
+}
+.btn {
+	background-color: white;
+	color:black;
+}
+.container{
+	color: white;
+}
